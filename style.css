@@ -1,0 +1,50 @@
+body {
+	background-image:url("zoomout2.jpg");
+	background-repeat: repeat;
+	!background-color:lightblue;
+	margin-top: 75px;
+	margin-bottom: 150px;
+	margin-right: 75px;
+	margin-left: 75px;
+}
+h1 {
+	color:black;
+	background-color: lightgrey;
+	!text-shadow: 2px 1px green;
+	border: 3px solid;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+h2 {color: black;
+	margin-top: 5px;
+	margin-bottom:0px;
+	!background-color: lightgrey;
+	font-family: "Arial", Helvetica, sans-serif;
+	}
+!p {color: black;
+		background-color: white;
+		border: 3px solid;
+		}
+!ul {color: black;
+		background-color: white;
+		}
+a {color: blue;
+	}
+div.img {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 3px solid;
+	!background-image:url("zoomout1.jpg");
+	!background-repeat: repeat;
+	background-color:lightgrey;
+}
+div.sect {
+	border: 3px solid;
+	background-color: lightgrey;
+	
+	!margin-top: 5px;
+	margin-bottom: 10px;
+	padding: 10px;
+	!margin-right: 150px;
+	!margin-left: 150px;
+}
